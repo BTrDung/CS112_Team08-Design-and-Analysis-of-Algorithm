@@ -1,6 +1,7 @@
 # CS112.L23.KHCL - Design and Analysis of Algorithm
 ## Lecturers:
-- **MSc. Nguyen Thanh Son - MSc. Huynh Thi Thanh Thuong**
+- **MSc. Nguyen Thanh Son**   
+- **MSc. Huynh Thi Thanh Thuong**
 ---
 ## Group ID: N008
 
