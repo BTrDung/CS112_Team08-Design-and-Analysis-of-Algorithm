@@ -6,7 +6,7 @@
 ## Group ID: N008
 
 ### Team member:
-|No.| Full name         |Student ID       |Team role      |Link github|
+|No.| Full name         |Student ID       |Team role      |Github|
 |:-:|:------------------|:---------:|:--------:|:-----------:|
 | 1	|[Dzung Bui Tri](mailto:19521386@gm.uit.edu.vn)	| 19521386	| Leader |[BTrDung](https://github.com/BTrDung)|
 | 2	|[Tan Pham Ngoc](mailto:19520925@gm.uit.edu.vn)	| 19520925	| Member  |[ngctnnnn](https://github.com/ngctnnnn)|
