@@ -10,4 +10,4 @@
 |:-:|:------------------|:---------:|:--------:|:-----------:|
 | 1	|[Dzung Bui Tri](mailto:19521386@gm.uit.edu.vn)	| 19521386	| Leader |[BTrDung](https://github.com/BTrDung)|
 | 2	|[Tan Pham Ngoc](mailto:19520925@gm.uit.edu.vn)	| 19520925	| Member  |[ngctnnnn](https://github.com/ngctnnnn)|
-| 3	|[An Khanh Vo](mailto:vokhanhan25@gmail.com)	  | 19520007	| Member  |[vokhanhan25](https://github.com/vokhanhan25)|
+| 3	|[An Khanh Vo](mailto:19520007@gm.uit.edu.vn)	  | 19520007	| Member  |[vokhanhan25](https://github.com/vokhanhan25)|
