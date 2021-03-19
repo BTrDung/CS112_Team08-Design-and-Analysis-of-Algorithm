@@ -18,9 +18,9 @@
 
 - [x] **Week 2** 
   - [x] **2.1 [Computational Thinking]**
-  - [ ] **2.2 Abstraction - TaoBien
+  - [ ] **2.2 Abstraction - TaoBien**
 
 - [x] **Week 3**
   - [ ] **3.1** [Complexity Algorithm]**
-  - [ ] **3.2 - TaoBien
+  - [ ] **3.2 - TaoBien**
   
