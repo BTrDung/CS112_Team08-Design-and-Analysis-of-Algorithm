@@ -1,5 +1,10 @@
 # Week 03
 
+## Progress
+| Problem | Status |
+|:---:|:---:|
+| [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) | Accecpted |
+
 ## Problem 1: [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3)
 **Time limit per test: 1 second**
 
