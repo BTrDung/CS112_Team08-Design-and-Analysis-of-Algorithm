@@ -2,7 +2,9 @@
 
 ## Problem 1: [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3)
 **Time limit per test: 1 second**
-** Memory limit per test: 50 megabytes**
+
+**Memory limit per test: 50 megabytes**
+
 Tảo biển sinh sản rất nhanh khi có môi trường thuận lợi với chúng và có những loài còn tiết ra môi trường những chất độc hại.
 
 Một loại tảo nâu trong môi trường nước bị ô nhiễm nặng sinh sản theo quy luật sau:
