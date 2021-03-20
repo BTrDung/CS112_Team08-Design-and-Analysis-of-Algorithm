@@ -4,7 +4,7 @@
 | Problem | Status |
 |:---:|:---:|
 | [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) | Accepted |
-| [Trạm thu phú](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1) | |
+| [Trạm thu phú](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1) | Accepted |
 
 ## Problem 1: [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3)
 **Time limit per test: 1 second**
