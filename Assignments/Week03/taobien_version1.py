@@ -1,12 +1,21 @@
-n, k = map(int, input().split()) 
+import numpy as np 
 
-dp = [n for _ in range(0, k + 1)] 
-mod = 1000000007
+def mod(mat): 
+    base = 1000000007
+    for i in mat: 
+        for j in i: 
+            j = j % base
+    return mat
 
-for i in range(1, k + 1, 1): 
-    sum = dp[i - 1]
-    for j in range(0, i, 1): 
-        sum = (sum + dp[j]) % mod
-    dp[i] = sum 
 
-print(dp[k])
+def fastPow(mat, number): 
+    if number == 0:
+         return np.array([[1, 0], [0, 1]])
+    mul = mod(fastPow(mat, number // 2))
+    if number % 2 == 1: 
+        return mod(np.dot(mod(np.dot(mul, mul)), mat))
+    return mod(np.dot(mul, mul))
+
+n, k = map(int, input().split())
+result = np.reshape(mod(np.dot(fastPow(np.array([[1, 1], [1, 0]]), k * 2), np.array([[1], [0]]))), 2)
+print((result[0] * n) % 1000000007)
