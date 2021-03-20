@@ -14,16 +14,14 @@
 
 ## Process: 
 - [x] **Week 1** 
-  - [x] **1.1 [Introduction]**
-
 - [x] **Week 2** 
-  - [x] **2.1 [Computational Thinking]**
-  - [ ] **2.2 Abstraction - TaoBien**
-
-- [x] **Week 3**
-  - [x] **3.1 [Complexity Algorithm](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week03)**
-  - [x] **3.2 - TaoBien**
-  - [x] **3.3 - TramThuPhi**
-
-- [ ] **Week 4**
+- [x] **Week 3** 
+- [ ] **Week 4** 
+- [ ] **Week 5** 
+- [ ] **Week 6** 
+- [ ] **Week 7** 
+- [ ] **Week 8** 
+- [ ] **Week 9** 
+- [ ] **Week 10** 
+  
   
