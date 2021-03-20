@@ -3,7 +3,7 @@
 ## Progress
 | Problem | Status |
 |:---:|:---:|
-| [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) | Accecpted |
+| [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) | Accepted |
 | [Trạm thu phú](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1) | |
 
 ## Problem 1: [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3)
