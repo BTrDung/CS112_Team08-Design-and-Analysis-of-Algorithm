@@ -40,10 +40,10 @@ Hãy chỉ ra khoảng cần chọn và lãi thu được. Nếu có nhiều cá
 
 **Dữ liệu**: Vào từ thiết bị nhập chuẩn:
   Dòng đầu tiên chứa số nguyên **n (1 ≤ n ≤ 10^6)**,
-  Dòng thứ **2** chứa n số nguyên **a1, a2, . . ., an (0 ≤ |ai| ≤ 109, i = 1 ÷ n)**.
+  Dòng thứ **2** chứa n số nguyên **a1, a2, . . ., an (0 ≤ |ai| ≤ 10^9, i = 1 ÷ n)**.
   
 **Kết quả**: Đưa ra thiết bị xuất chuẩn trên một dòng **2** số nguyên **p**, **q** và lãi thu được.
 
 | Input | Output |
 |:---:|:---:|
-| 16 <br /> 2 -4 5 -8 4 -1 -1 1 1 1 -2 2 4 -6 9 -4 | 15 |
+| 16 <br /> 2 -4 5 -8 4 -1 -1 1 1 1 -2 2 4 -6 9 -4 | 5 15 12 |
