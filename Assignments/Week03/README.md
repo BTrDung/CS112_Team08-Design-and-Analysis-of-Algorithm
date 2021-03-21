@@ -43,7 +43,7 @@ Hãy chỉ ra khoảng cần chọn và lãi thu được. Nếu có nhiều cá
   Dòng đầu tiên chứa số nguyên **n (1 ≤ n ≤ 10^6)**,
   Dòng thứ **2** chứa n số nguyên **a1, a2, . . ., an (0 ≤ |ai| ≤ 109, i = 1 ÷ n)**.
   
-**Kết quả**: Đưa ra thiết bị xuất chuẩn trên một dòng $2$ số nguyên $p$, $q$ và lãi thu được.
+**Kết quả**: Đưa ra thiết bị xuất chuẩn trên một dòng **2** số nguyên **p**, **q** và lãi thu được.
 
 | Input | Output |
 |:---:|:---:|
