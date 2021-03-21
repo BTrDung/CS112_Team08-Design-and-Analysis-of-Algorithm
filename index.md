@@ -19,7 +19,7 @@
   - [x] **2.1 [Computational Thinking]**
   - [ ] **2.2 Abstraction - TaoBien**
 
-- [x] **[Week 3](.\week03_page.html)**
+- [x] **[Week 3](.\solution3_page.html)**
   - [x] **3.1 Complexity Algorithm**
   - [x] **3.2 - TaoBien**
   - [x] **3.3 - TramThuPhi**
