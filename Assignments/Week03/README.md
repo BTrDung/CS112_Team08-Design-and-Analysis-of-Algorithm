@@ -3,8 +3,8 @@
 ## Progress
 | Problem | Status |
 |:---:|:---:|
-| [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) | Accepted |
-| [Trạm thu phí](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1) | Accepted |
+| [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3) | ![](https://img.shields.io/badge/-Accepted-brightgreen) |
+| [Trạm thu phí](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1) | ![](https://img.shields.io/badge/-Accepted-brightgreen) |
 
 ## Problem 1: [Tảo biển](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3)
 **Time limit per test: 1 second**
@@ -42,4 +42,9 @@ Hãy chỉ ra khoảng cần chọn và lãi thu được. Nếu có nhiều cá
 **Dữ liệu**: Vào từ thiết bị nhập chuẩn:
   Dòng đầu tiên chứa số nguyên $n (1 ≤ n ≤ 10^6)$,
   Dòng thứ $2$ chứa n số nguyên $a1, a2, . . ., an (0 ≤ |ai| ≤ 109, i = 1 ÷ n)$.
+  
 **Kết quả**: Đưa ra thiết bị xuất chuẩn trên một dòng $2$ số nguyên $p$, $q$ và lãi thu được.
+
+| Input | Output |
+|:---:|:---:|
+| ![](https://img.shields.io/badge/-16-black)<br /> ![](https://img.shields.io/badge/-2%20--4%205%20--8%204%20--1%20--1%201%201%201%20--2%202%204%20--6%209%20--4-black) | https://img.shields.io/badge/-15-black |
