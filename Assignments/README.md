@@ -1,11 +1,11 @@
-# Progress: 
+# Course progress: 
 - [x] **Week 1** 
-- [x] **Week 2** 
+- [x] **Week 2: Computational Thinking** 
 - [x] **Week 3: Complexity Analysis** 
-  - [x] **Tảo biển**
+  - [x] **Tảo biển - Seaweed**
     - [x] **Source code**
     - [x] **Report**
-  - [x] **Trạm thu phí**
+  - [x] **Trạm thu phí - BOT**
     - [x] **Source code**
     - [x] **Report**
 - [ ] **Week 4** 
