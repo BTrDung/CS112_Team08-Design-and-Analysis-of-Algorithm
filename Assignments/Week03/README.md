@@ -37,7 +37,7 @@ BOT (Built-Operation-Transfer, có nghĩa: Xây dựng-Vận hành-Chuyển giao
 
 Dĩ nhiên Ban Giám đốc ASEAM Highway muốn chọn khoảng bắt đầu từ đoạn **p** đến hết đoạn **q** mang lại lợi nhuận cao nhất hoặc lỗ ít nhất nếu không có khoảng nào cho lãi.
 
-Hãy chỉ ra khoảng cần chọn và lãi thu được. Nếu có nhiều cách chọn thì chỉ ra cách chọn có $p$ nhỏ nhất.
+Hãy chỉ ra khoảng cần chọn và lãi thu được. Nếu có nhiều cách chọn thì chỉ ra cách chọn có **p** nhỏ nhất.
 
 **Dữ liệu**: Vào từ thiết bị nhập chuẩn:
   Dòng đầu tiên chứa số nguyên **n (1 ≤ n ≤ 10^6)**,
