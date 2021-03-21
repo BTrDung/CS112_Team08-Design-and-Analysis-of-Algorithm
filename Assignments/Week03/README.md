@@ -29,6 +29,7 @@ Hãy xác định sau **k** ngày trong nước biển có bao nhiêu cá thể.
 
 
 ## Problem 2: [Trạm thu phí](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1)
+**Time limit per test: 1 second**   
 
 BOT (Built-Operation-Transfer, có nghĩa: Xây dựng-Vận hành-Chuyển giao) là hình thức Chính phủ kêu gọi các công ty bỏ vốn xây dựng trước (Built) thông qua đấu thầu, sau đó khai thác vận hành một thời gian (Operation) và sau cùng là chuyển giao (Transfer) lại cho nhà nước sở tại.
 
