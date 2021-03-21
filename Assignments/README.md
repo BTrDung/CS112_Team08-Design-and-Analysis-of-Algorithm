@@ -2,7 +2,7 @@
 - [x] **Week 1** 
 - [x] **Week 2** 
 - [x] **Week 3** 
-  - [ ] **Tảo biển**
+  - [x] **Tảo biển**
     - [x] **Source code**
     - [x] **Report**
   - [ ] **Trạm thu phí**
