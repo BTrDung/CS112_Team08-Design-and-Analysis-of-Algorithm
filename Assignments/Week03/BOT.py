@@ -1,33 +1,38 @@
-n = int(input())
-arr = list(map(int, input().split()))
 
-l = 0 
-r = 0
+#Khởi tạo giá trị 
+left = 0 
+right = 0
 sum = 0
 maxx = -999999999999999
 result = 0 
-newl = 0 
+newleft = 0
+
+
+#Nhập số phần tử và nhập mảng 
+n = int(input())
+arr = list(map(int, input().split()))
 
 for i in range(0, len(arr)): 
     if arr[i] > maxx:
         maxx = arr[i]; 
-        l = i 
-        r == i 
+        left = i 
+        right == i 
+
 if maxx < 0: 
-    print(l + 1, r + 1, maxx)
+    print(left + 1, right + 1, maxx)
 else:
-    l = 0 
-    r = 0
+    left = 0 
+    right = 0
     for i in range(0, len(arr)): 
         sum += arr[i]
 
         if sum < 0: 
             sum = 0
-            newl = i + 1
+            newleft = i + 1
         
         if sum > result:
             result = sum
-            r = i
-            l = max(l, newl)
+            right = i
+            left = max(left, newleft)
 
-    print(l + 1, r + 1, result)
+    print(left + 1, right + 1, result)
