@@ -32,7 +32,7 @@ Hãy xác định sau **k** ngày trong nước biển có bao nhiêu cá thể.
 
 BOT (Built-Operation-Transfer, có nghĩa: Xây dựng-Vận hành-Chuyển giao) là hình thức Chính phủ kêu gọi các công ty bỏ vốn xây dựng trước (Built) thông qua đấu thầu, sau đó khai thác vận hành một thời gian (Operation) và sau cùng là chuyển giao (Transfer) lại cho nhà nước sở tại.
 
-Đường cao tốc xuyên quốc gia được xây dựng theo hình thức BOT. Công ty Đa quốc gia Modern Highway trúng thầu, chia toàn bộ con đường thành **n** đoạn. Theo tính toán của Công ty sau khi chuyển giao con đường cho chính phủ sở tại quản lý thì lãi thu được ở đoạn đường thứ **i** là **a_i**, **a_i** có thể dương, âm hoặc bằng $0$, tức là với từng đoạn con có thể lãi, lỗ hoặc hòa vốn. Từng nhóm các đoạn đường liên tiếp nhau (gọi tắt là khoảng) được chia cho các công ty con thực hiện. Công ty con ASEAM Highway hiện đang có trụ sở ở nước sở tại được quyền chọn trước khoảng tùy ý (có thể là cả con đường).
+Đường cao tốc xuyên quốc gia được xây dựng theo hình thức BOT. Công ty Đa quốc gia Modern Highway trúng thầu, chia toàn bộ con đường thành **n** đoạn. Theo tính toán của Công ty sau khi chuyển giao con đường cho chính phủ sở tại quản lý thì lãi thu được ở đoạn đường thứ **i** là **a_i**, **a_i** có thể dương, âm hoặc bằng **0**, tức là với từng đoạn con có thể lãi, lỗ hoặc hòa vốn. Từng nhóm các đoạn đường liên tiếp nhau (gọi tắt là khoảng) được chia cho các công ty con thực hiện. Công ty con ASEAM Highway hiện đang có trụ sở ở nước sở tại được quyền chọn trước khoảng tùy ý (có thể là cả con đường).
 
 Dĩ nhiên Ban Giám đốc ASEAM Highway muốn chọn khoảng bắt đầu từ đoạn **p** đến hết đoạn **q** mang lại lợi nhuận cao nhất hoặc lỗ ít nhất nếu không có khoảng nào cho lãi.
 
