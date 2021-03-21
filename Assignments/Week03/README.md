@@ -47,4 +47,4 @@ Hãy chỉ ra khoảng cần chọn và lãi thu được. Nếu có nhiều cá
 
 | Input | Output |
 |:---:|:---:|
-| ![](https://img.shields.io/badge/-16-black)<br /> ![](https://img.shields.io/badge/-2%20--4%205%20--8%204%20--1%20--1%201%201%201%20--2%202%204%20--6%209%20--4-black) | ![](https://img.shields.io/badge/-15-black) |
+| 16 <br \> 2 -4 5 -8 4 -1 -1 1 1 1 -2 2 4 -6 9 -4 | ![](https://img.shields.io/badge/-15-black) |
