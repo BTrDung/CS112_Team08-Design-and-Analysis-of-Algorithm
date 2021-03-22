@@ -18,7 +18,7 @@
 
 - [x] **Week 2** 
   - [x] **2.1 [Computational Thinking]**
-  - [ ] **2.2 Abstraction - TaoBien**
+  - [x] **2.2 Abstraction - TaoBien**
 
 - [x] **Week 3**
   - [x] **3.1 [Complexity Algorithm](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week03)**
