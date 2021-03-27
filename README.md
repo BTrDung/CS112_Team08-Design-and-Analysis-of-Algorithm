@@ -19,11 +19,11 @@
 - [x] **Week 2** 
   - [x] **2.1 [Computational Thinking]**
   - [x] **2.2 Abstraction - TaoBien**
-
+  - [x] **2.3 Analysis Complexity of Heap Sort** -- We will public our report until 30/03/2021.
 - [x] **Week 3**
   - [x] **3.1 [Complexity Algorithm](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week03)**
   - [x] **3.2 - TaoBien**
   - [x] **3.3 - TramThuPhi**
-
+  - [x] **3.3 Analysis Complexity of Merge Sort** -- We will public our report until 30/03/2021.
 - [ ] **Week 4**
   - [ ]  
