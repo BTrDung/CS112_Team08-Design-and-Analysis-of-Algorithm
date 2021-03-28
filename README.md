@@ -27,7 +27,7 @@
   - [x] **3.4 Analysis Complexity of Heap Sort** -- We will public our report until 30/03/2021.
   
 - [x] **Week 4**
-  - [x] **4.1 [Complexity Recursive Algorithm]** 
+  - [x] **4.1 [Complexity Recursive Algorithm](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week04)** 
   - [x] **4.2 Analysis Complexity of Merge Sort** -- We will public our report until 30/03/2021.
 
 - [ ] **Week 5**
