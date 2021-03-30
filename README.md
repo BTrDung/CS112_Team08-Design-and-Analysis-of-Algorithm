@@ -22,7 +22,7 @@
   
 - [x] **Week 3**
   - [x] **3.1 [Complexity Algorithm](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week03)**
-  - [ ] **3.2 Assignments**
+  - [x] **3.2 Assignments**
     - [x] **3.2.1 - [TaoBien](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3)**
     - [x] **3.2.2 - [TramThuPhi](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1)**
   - [x] **3.3 [Analysis Complexity of Heap Sort](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week04)**
