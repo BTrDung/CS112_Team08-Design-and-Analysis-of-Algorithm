@@ -8,9 +8,12 @@
   - [x] **Trạm thu phí - BOT**
     - [x] **Source code**
     - [x] **Report**
-- [x] **Week 4**
-  - [x] **Report Merge Sort and Heap Sort**  -- We will public our report until 31/03/2021.
-- [ ] **Week 5** 
+- [x] **Week 4: Recursion complexity analysis**
+  - [x] **Report Merge Sort and Heap Sort**  
+- [x] **Week 5: Program correctness**
+  - [x] **H-Index**
+  - [x] **MAXSTR** 
+  - [x] **CERAMIC**
 - [ ] **Week 6** 
 - [ ] **Week 7** 
 - [ ] **Week 8** 
