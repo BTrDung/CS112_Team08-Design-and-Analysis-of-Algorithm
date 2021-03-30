@@ -34,6 +34,6 @@
 - [ ] **Week 5**
   - [ ] **5.1 [Program correctness](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week05)**
   - [ ] **5.2 Assignments**
-    - [ ] **5.2.1 [VV27_S-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)** -- We will public our source code and report until 05/04/2021.
+    - [x] **5.2.1 [VV27_S-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)** -- We will public our source code and report until 05/04/2021.
     - [ ] **5.2.2 [VU33_MAXSTR](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9)** -- We will public our source code and report until 05/04/2021.
     - [x] **5.2.3 [VS05_Ceramic](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)** -- We will public our source code and report until 05/04/2021.
