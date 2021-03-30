@@ -27,7 +27,12 @@
   - [x] **3.4 Analysis Complexity of Heap Sort** -- We will public our report until 30/03/2021.
   
 - [x] **Week 4**
-  - [x] **4.1 [Complexity Recursive Algorithm]** 
+  - [x] **4.1 [Complexity Recursive Algorithm](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week04)** 
   - [x] **4.2 Analysis Complexity of Merge Sort** -- We will public our report until 30/03/2021.
 
 - [ ] **Week 5**
+  - [ ] **5.1 [Program correctness]**
+  - [ ] **Assignments**
+    - [ ] **VV27_S-Index** -- We will public our source code and report until 05/04/2021.
+    - [ ] **VU33_MAXSTR** -- We will public our source code and report until 05/04/2021.
+    - [x] **VS05_Ceramic** -- We will public our source code and report until 05/04/2021.

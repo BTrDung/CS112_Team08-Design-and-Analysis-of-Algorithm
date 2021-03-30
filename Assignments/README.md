@@ -8,7 +8,8 @@
   - [x] **Trạm thu phí - BOT**
     - [x] **Source code**
     - [x] **Report**
-- [ ] **Week 4** 
+- [x] **Week 4**
+  - [x] **Report Merge Sort and Heap Sort**  -- We will public our report until 31/03/2021.
 - [ ] **Week 5** 
 - [ ] **Week 6** 
 - [ ] **Week 7** 
