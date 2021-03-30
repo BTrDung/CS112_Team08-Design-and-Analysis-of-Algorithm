@@ -25,7 +25,7 @@ Hãy xác định H_Index của người đó.
 *Dữ liệu*: Vào từ thiết bị nhập chuẩn:
 
 Dòng đầu tiên chứa một số nguyên **n** **(1 ≤ n ≤ 5×10^5)**,
-Dòng thứ 2 chứa **n** số nguyên **c1, c2, . . ., cn** **(0 ≤ c_i ≤ 106, i = 1 ÷ n)**.
+Dòng thứ 2 chứa **n** số nguyên **c1, c2, . . ., cn** **(0 ≤ c_i ≤ 10^6, i = 1 ÷ n)**.
 *Kết quả*: Đưa ra thiết bị xuất chuẩn một số nguyên – H_Index tìm được.
 
 Ví dụ:
@@ -69,4 +69,4 @@ Hãy xác định số lượng tranh có thể có và số lượng tranh mỗ
 *Ví dụ*:
 | Input | Output | 
 |:---:|:---:|
-| 9 <br /> 1 2 3 6 4 9 3 1 2 | 1 <br / >3 2 1 |
+| 9 <br /> 1 2 3 6 4 9 3 1 2 | 1 <br />3 2 1 |
