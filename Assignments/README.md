@@ -9,7 +9,7 @@
     - [x] **Source code**
     - [x] **Report**
 - [x] **Week 4**
-  - [x] **Report Merge Sort and Heap Sort**  -- We will public our report until 31/03/2021.
+  - [x] **Report Merge Sort and Heap Sort**  
 - [ ] **Week 5** 
 - [ ] **Week 6** 
 - [ ] **Week 7** 
