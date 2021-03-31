@@ -16,7 +16,7 @@ Làm thế nào để đánh giá sự thành công của một nhà khoa học?
 
 Một bài báo có điểm số trích dẫn là **c** nếu nó được trích dẫn tới **c** lần trong các công trình của những nhà khoa học khác. Một trong số các cách đánh giá sự thành công của một nhà khoa học là tính chỉ số ảnh hưởng H_Index dựa trên sự kết hợp giữa số lượng bài báo và chỉ số trích dẫn của các bài báo đó.
 
-Chỉ số H_Indexcủa một nhà khoa học bằng **k** lớn nhất nếu người đó có **k** bài báo, mỗi bài có điểm số trích dẫn không nhỏ hơn **k**. Ví dụ, một người có **10** bài báo, mỗi bài báo được trích dẫn không dưới **10** lần thì H_Index của người đó ít nhất là bằng **10**.
+Chỉ số H_Index của một nhà khoa học bằng **k** lớn nhất nếu người đó có **k** bài báo, mỗi bài có điểm số trích dẫn không nhỏ hơn **k**. Ví dụ, một người có **10** bài báo, mỗi bài báo được trích dẫn không dưới **10** lần thì H_Index của người đó ít nhất là bằng **10**.
 
 Một người có **n** bài báo, bài báo thứ ***i*** có điểm trích dẫn là *c_i*, **i = 1 ÷ n**. 
 
