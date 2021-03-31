@@ -1,4 +1,4 @@
-def delete(string, j):
+def deletee(string, j):
     tmp = ""
     for i in range(len(string)):
         if i != j:
@@ -9,22 +9,18 @@ string = input()
 summ, ans, tmp = 0, "", sorted(string, reverse=True)
 
 for i in range(len(tmp)):
-    ans += str(tmp[i])
+    ans += tmp[i]
     summ += (int)(tmp[i])
 
-if summ % 3 == 0:
-    print(ans)
-else:
-    for i in range(len(tmp))[::-1]:
-        if (int)(ans[i]) % 3 == 1 and summ % 3 == 1:
-            ans = delete(ans, i)
-            break
-        elif (int)(ans[i]) % 3 == 2 and summ % 3 == 2:
-            ans = delete(ans, i)
-            break
-        else:
-            continue
-    print(ans)
+for i in range(len(tmp))[::-1]:
+    if (int)(ans[i]) % 3 == 1 and summ % 3 == 1:
+        ans = deletee(ans, i)
+        break
+    elif (int)(ans[i]) % 3 == 2 and summ % 3 == 2:
+        ans = deletee(ans, i)
+        break
+print(ans)
+
 # class Solution():
 #     def __init__(self, hash):
 #         self.hash = hash
