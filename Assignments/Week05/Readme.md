@@ -1,11 +1,11 @@
 # Week 05
 
 ## Progress
-| Problem | Status | Working Space |
-|:---:|:---:|:--:|
-| [H-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://goo.gle)
-| [Khóa số](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://goo.gle)
-| [Con đường gốm sứ](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://goo.gle)
+| Problem | Status | Working Space | Public |
+|:---:|:---:|:--:|:--:|
+| [H-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1Yn5e372rWt39cpk02J0bMbhojyrWjzQK?authuser=1) | ![](https://img.shields.io/badge/-YES-brightgreen)
+| [Khóa số](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1Pz62cm3IJ9m0BWYYihOb0hx5bj2GGw6C?usp=sharing)  | ![](https://img.shields.io/badge/-YES-brightgreen) 
+| [Con đường gốm sứ](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1pVnmd0gz1ssHnvvIiNwCFGLHxg7Gurh2?usp=sharing) | ![](https://img.shields.io/badge/-YES-brightgreen) 
 
 ## Problem 1: [H-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)
 **Time limit per test: 1 second**
