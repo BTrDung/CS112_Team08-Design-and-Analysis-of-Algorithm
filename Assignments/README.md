@@ -12,9 +12,15 @@
   - [x] **Report Merge Sort and Heap Sort**  
 - [x] **Week 5: Program correctness**
   - [x] **H-Index**
+    - [x] **Source code**
+    - [x] **Report**
   - [x] **MAXSTR** 
+    - [x] **Source code**
+    - [x] **Report**
   - [x] **CERAMIC**
-- [ ] **Week 6** 
+    - [x] **Source code**
+    - [x] **Report**
+- [x] **Week 6: Brute Force** 
 - [ ] **Week 7** 
 - [ ] **Week 8** 
 - [ ] **Week 9** 
