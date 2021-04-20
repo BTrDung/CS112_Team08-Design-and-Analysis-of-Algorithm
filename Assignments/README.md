@@ -21,7 +21,7 @@
     - [x] **Source code**
     - [x] **Report**
 - [x] **Week 6: Brute Force** 
-- [ ] **Week 7** 
+- [x] **Week 7: Backtracking** 
 - [ ] **Week 8** 
 - [ ] **Week 9** 
 - [ ] **Week 10** 
