@@ -32,7 +32,7 @@
   - [x] **4.2 [Analysis Complexity of Merge Sort](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week04)**
 
 - [x] **Week 5**
-  - [x] **5.1 [Program correctness](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week05)**
+  - [x] **5.1 [Program Correctness](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week05)**
   - [x] **5.2 Assignments**
     - [x] **5.2.1 [VV27_S-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)** 
     - [x] **5.2.2 [VU33_MAXSTR](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9)** 
