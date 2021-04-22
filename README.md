@@ -45,3 +45,5 @@
     - [x] **7.2.1 [VQ30_Renewed](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8)**  
     - [x] **7.2.2 [VS02_NewNum](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15)**  
     - [x] **7.2.3 [WaterSupply](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/5)**
+  - [x] **7.3 Special Assignments**
+    - [x] **7.3.1** Peg Soliatire   
