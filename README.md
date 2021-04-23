@@ -20,27 +20,27 @@
   - [x] **2.1 Computational Thinking**
   - [x] **2.2 Abstraction - TaoBien**
   
-- [x] **Week 3**
+- [x] **[Week 3](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week03)**
   - [x] **3.1 [Complexity Algorithm](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week03)**
   - [x] **3.2 Assignments**
     - [x] **3.2.1 - [VT50_SEAWEED](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/3)**
     - [x] **3.2.2 - [VR06_BOT](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/2/1)**
   - [x] **3.3 [Analysis Complexity of Heap Sort](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week04)**
   
-- [x] **Week 4**
+- [x] **[Week 4](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week04)**
   - [x] **4.1 [Complexity Recursive Algorithm](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week04)** 
   - [x] **4.2 [Analysis Complexity of Merge Sort](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week04)**
 
-- [x] **Week 5**
+- [x] **[Week 5](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week05)**
   - [x] **5.1 [Program Correctness](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week05)**
   - [x] **5.2 Assignments**
     - [x] **5.2.1 [VV27_S-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)** 
     - [x] **5.2.2 [VU33_MAXSTR](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9)** 
     - [x] **5.2.3 [VS05_Ceramic](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)**
-- [x] **Week 6**
+- [x] **[Week 6](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week06)**
   - [x] **6.1 Brute Force** 
-- [x] **Week 7**
-  - [x] **7.1 Back Tracking**
+- [x] **[Week 7](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week07)**
+  - [x] **7.1 [Back Tracking](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week07)**
   - [x] **7.2 Assignments**
     - [x] **7.2.1 [VQ30_Renewed](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8)**  
     - [x] **7.2.2 [VS02_NewNum](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15)**  
