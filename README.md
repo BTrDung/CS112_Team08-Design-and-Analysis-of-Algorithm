@@ -39,9 +39,9 @@
     - [x] **5.2.3 [VS05_Ceramic](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)**
 - [x] **Week 6**
   - [x] **6.1 Brute Force** 
-- [ ] **Week 7**
-  - [ ] **7.1 Back Tracking**
-  - [ ] **7.2 Assignments**
+- [x] **Week 7**
+  - [x] **7.1 Back Tracking**
+  - [x] **7.2 Assignments**
     - [x] **7.2.1 [VQ30_Renewed](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8)**  
     - [x] **7.2.2 [VS02_NewNum](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15)**  
     - [x] **7.2.3 [WaterSupply](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/5)**
