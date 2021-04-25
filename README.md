@@ -46,4 +46,4 @@
     - [x] **7.2.2 [VS02_NewNum](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15)**  
     - [ ] **7.2.3 [WaterSupply](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/5)**
   - [x] **7.3 Special Assignments**
-    - [x] **7.3.1** Peg Soliatire   
+    - [x] **7.3.1 [Peg Soliatire](https://github.com/BTrDung/Peg_Solitaire)**   
