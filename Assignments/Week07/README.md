@@ -5,7 +5,7 @@
 |:---:|:---:|:--:|:--:|
 | [Đổi mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1-xAlHd5WjiV6wja5_qRNNtKTuGyOI622?authuser=1#scrollTo=RB0AzZtRXGw4) | ![](https://img.shields.io/badge/-YES-brightgreen)   
 | [Số nguyên mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1JUVQd7DVZ7bifhna_ZeYSDciyIo64v67?usp=sharing)  | ![](https://img.shields.io/badge/-YES-brightgreen)    
-
+| [Peg Solitaire](https://github.com/BTrDung/Peg_Solitaire) | ![](https://img.shields.io/badge/-Completed-brightgreen) | None | ![](https://img.shields.io/badge/-YES-brightgreen)   | 
 ## Problem 1: [Đổi mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8)
 **Time limit per test: 0.1 second**   
 
