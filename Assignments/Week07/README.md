@@ -3,15 +3,8 @@
 ## Progress
 | Problem | Status | Working Space | Public |
 |:---:|:---:|:--:|:--:|
-<<<<<<< HEAD
 | [Đổi mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1-xAlHd5WjiV6wja5_qRNNtKTuGyOI622?authuser=1#scrollTo=RB0AzZtRXGw4) | ![](https://img.shields.io/badge/-YES-brightgreen)   
 | [Số nguyên mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1JUVQd7DVZ7bifhna_ZeYSDciyIo64v67?usp=sharing)  | ![](https://img.shields.io/badge/-YES-brightgreen)    
-| [Khôi phục hệ thống cấp nước](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/5) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link]() | ![](https://img.shields.io/badge/-YES-brightgreen)    
-=======
-| [Đổi mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link]() | ![](https://img.shields.io/badge/-NO-red)   
-| [Số nguyên mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link]()  | ![](https://img.shields.io/badge/-NO-red)    
-| [Khôi phục hệ thống cấp nước](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/5) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link]() | ![](https://img.shields.io/badge/-NO-red)    
->>>>>>> 97de15f501a14d3b42c6b6670c22361571023eb8
 
 ## Problem 1: [Đổi mới](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8)
 **Time limit per test: 0.1 second**   
@@ -49,32 +42,4 @@ Cho số nguyên dương **n** có không quá **100** chữ số. Hãy xác đ�
 | Input | Output |
 |:---:|:---:|
 | 123 | 723 |
-
-## Problem 3: [Khôi phục hệ thống cấp nước](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/5)
-**Time limit per test: 1 second**    
-
-**Memory limit per second: 100MB**    
-
-Vùng đất diệu kỳ Wonderland có **N** hộ gia đình đã được trang bị một hệ thống cung cấp nước sạch đến từng ngôi nhà. Mỗi đường ống nối trực tiếp **2** nhà, nước chảy trong đường ống theo **2** chiều, có thể truyền qua nhiều trung gian trước khi đến một nhà nào đó. Trong hồ sơ lưu trữ, các ngôi nhà được ghi số từ **1** đến **N**.     
-
-Một trận động đất đã gây nên sự cố nghiêm trọng làm cho cả vùng bị chia cắt thành nhiều khu vực rời nhau, không còn tiếp cận được với nguồn nước. Để khắc phục, những người có trách nhiệm đã khảo sát hiện trạng và ghi nhận được toàn vùng đất đang thảm họa vẫn còn **M** đường ống đang hoạt động tốt.   
-
-Nhiệm vụ đặt ra là phải khôi phục hệ thống cấp nước bằng cách lắp thêm một số đường ống. Tuy nhiên, do hạn chế về thời gian và kinh phí nên đòi hỏi phương án khôi phục phải được thực hiện với ít đường ống được lắp thêm nhất.    
-
-Câu hỏi đặt ra: *cần lắp thêm ít nhất bao nhiêu đường ống để hệ thống cấp nước có thể đưa nước đến từng ngôi nhà*. 
-Câu hỏi phụ: *có bao nhiêu phương án khác nhau đáp ứng yêu cầu; số phương án có thể khá lớn nên chỉ cần đưa ra số dư khi chia cho **10^9 + 7***.
-
-***Dữ liệu***: Vào từ thiết bị nhập chuẩn:      
-
-  - Dòng đầu tiên chứa **2** số nguyên **N**, **M** **(1 ≤ N, M  ≤ 10^5)**    
-
-  - Mỗi dòng trong **M** dòng tiếp theo chứa **2** số nguyên **a**, **b** **(1 ≤ a, b ≤ N)**, cho biết vẫn còn đường ống nối nhà **a** với nhà **b**    
-
-***Kết quả***: Đưa ra thiết bị xuất chuẩn số đường ống cần được lắp thêm và số phương án đáp ứng yêu cầu (theo module **10^9+7**) mỗi số trên một dòng.     
-
-***Ví dụ***:    
-| Input | Output |
-|:---:|:---:|
-| 3 2 <br/> 1 2 | 1 <br/> 2 |
-
 
