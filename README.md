@@ -38,9 +38,9 @@
     - [x] **5.2.2 [VU33_MAXSTR](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9)** 
     - [x] **5.2.3 [VS05_Ceramic](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)**
 - [x] **Week 6**
-  - [x] **6.1 Brute Force** 
+  - [x] **6.1 [Brute Force](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week06)** 
 - [x] **Week 7**
-  - [x] **7.1 Back Tracking**
+  - [x] **7.1 [Back Tracking](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week07)**
   - [x] **7.2 Assignments**
     - [x] **7.2.1 [VQ30_Renewed](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8)**  
     - [x] **7.2.2 [VS02_NewNum](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15)**  
