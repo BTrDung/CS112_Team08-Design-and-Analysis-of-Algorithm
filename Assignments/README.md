@@ -22,7 +22,7 @@
     - [x] **Report**
 - [x] **Week 6: Brute Force** 
 - [x] **Week 7: Backtracking** 
-- [ ] **Week 8** 
+- [x] **Week 8: Divide and Conquer** 
 - [ ] **Week 9** 
 - [ ] **Week 10** 
   
