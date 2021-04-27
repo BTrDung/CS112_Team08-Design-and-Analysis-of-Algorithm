@@ -37,8 +37,10 @@
     - [x] **5.2.1 [VV27_S-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)** 
     - [x] **5.2.2 [VU33_MAXSTR](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9)** 
     - [x] **5.2.3 [VS05_Ceramic](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)**
+    
 - [x] **Week 6**
   - [x] **6.1 [Brute Force](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week06)** 
+  
 - [x] **Week 7**
   - [x] **7.1 [Back Tracking](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week07)**
   - [x] **7.2 Assignments**
@@ -47,3 +49,7 @@
     - [ ] **7.2.3 [WaterSupply](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/5)**
   - [x] **7.3 Special Assignments**
     - [x] **7.3.1 [Peg Soliatire](https://github.com/BTrDung/Peg_Solitaire)**   
+   
+- [x] **Week 8**
+  - [x] **8.1 [Divide and Conquer](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week08)**
+  - [ ] **8.2 Assignments**
