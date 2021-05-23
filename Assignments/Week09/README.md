@@ -3,7 +3,7 @@
 ## Progress
 | Problem | Status | Working Space | Public |
 |:---:|:---:|:--:|:--:|
-| [Sửa hàng rào](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/6) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link]() | ![](https://img.shields.io/badge/-YES-brightgreen)   
+| [Sửa hàng rào](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/6) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1snsNl7xvFFk1kMmK7AjHtYNuQSt6kEKa?usp=sharing#scrollTo=oGIj3jP5Nu8A) | ![](https://img.shields.io/badge/-YES-brightgreen)   
 | [Phân số](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/13) | ![](https://img.shields.io/badge/-Accepted-brightgreen) | [Link](https://colab.research.google.com/drive/1K3UZNH6G5nwvFdQgAp7wdbCa2l-7wf_J?usp=sharing#scrollTo=f6ISlGq6PYZc)  | ![](https://img.shields.io/badge/-YES-brightgreen)    
 
 ## Problem 1: [Sửa hàng rào](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/6)
