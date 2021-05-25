@@ -53,7 +53,7 @@
   - [x] **8.1 [Divide and Conquer](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week08)**
   - [ ] **8.2 Assignments**
 - [x] **Week 9**
-  - [x] **9.1 [Branch and Bound]((https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week09))** 
+  - [x] **9.1 [Branch and Bound](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week09)** 
   - [ ] **9.2 Assignments**
     - [ ] **9.2.1 [VQ21_Wall]()**
     - [ ] **9.2.2 [VU20_Fraction]()**
