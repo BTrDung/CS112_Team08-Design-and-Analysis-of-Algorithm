@@ -58,6 +58,6 @@
     - [x] **9.2.1 [VQ21_Wall](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/21)**
     - [x] **9.2.2 [VU20_Fraction](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/13)**
 - [x] **Week 10**
-  - [x] **9.1 [Geometry](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week09)**
-  - [x] **9.2 Presentation** 
+  - [x] **9.1 [Geometry](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week10)**
+  - [x] **9.2 [Presentation](https://github.com/BTrDung/CS112_Team08/tree/main/Presentation)** 
   - [ ] **9.3 Assignments**
