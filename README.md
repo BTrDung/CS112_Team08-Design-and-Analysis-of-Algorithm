@@ -2,7 +2,7 @@
 ## Lecturer:
 - **MSc. Nguyen Thanh Son**   
 - **MSc. Huynh Thi Thanh Thuong**
----
+
 ## Group ID: N008
 
 ### Team member:
@@ -37,13 +37,27 @@
     - [x] **5.2.1 [VV27_S-Index](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4)** 
     - [x] **5.2.2 [VU33_MAXSTR](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/9)** 
     - [x] **5.2.3 [VS05_Ceramic](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/17)**
+    
 - [x] **Week 6**
-  - [x] **6.1 Brute Force** 
-- [ ] **Week 7**
-  - [ ] **7.1 Back Tracking**
-  - [ ] **7.2 Assignments**
+  - [x] **6.1 [Brute Force](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week06)** 
+  
+- [x] **Week 7**
+  - [x] **7.1 [Back Tracking](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week07)**
+  - [x] **7.2 Assignments**
     - [x] **7.2.1 [VQ30_Renewed](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/8)**  
-    - [x] **7.2.2 [VS02_NewNum](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15)**  
-    - [x] **7.2.3 [WaterSupply](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/5)**
+    - [x] **7.2.2 [VS02_NewNum](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/5/15)**
   - [x] **7.3 Special Assignments**
-    - [x] **7.3.1** Peg Soliatire   
+    - [x] **7.3.1 [Peg Soliatire](https://github.com/BTrDung/Peg_Solitaire)**   
+   
+- [x] **Week 8**
+  - [x] **8.1 [Divide and Conquer](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week08)**
+  - [x] **8.2 Assignments**
+- [x] **Week 9**
+  - [x] **9.1 [Branch and Bound](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week09)** 
+  - [x] **9.2 Assignments**
+    - [x] **9.2.1 [VQ21_Wall](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/21)**
+    - [x] **9.2.2 [VU20_Fraction](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/6/13)**
+- [x] **Week 10**
+  - [x] **9.1 [Geometry](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week10)**
+  - [x] **9.2 [Presentation](https://github.com/BTrDung/CS112_Team08/tree/main/Presentation)** 
+  - [ ] **9.3 Assignments**
