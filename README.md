@@ -61,3 +61,9 @@
   - [x] **9.1 [Geometry](https://github.com/BTrDung/CS112_Team08/tree/main/Assignments/Week10)**
   - [x] **9.2 [Presentation](https://github.com/BTrDung/CS112_Team08/tree/main/Presentation)** 
   - [ ] **9.3 Assignments**
+- [x] **Self-practice**
+  - [x] Atcoder:
+    - [x] Beginner 205
+    - [x] Beginner 206 
+  - [x] Codeforces: 
+    - [x] Round #725 (Div 3) 
