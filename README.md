@@ -66,4 +66,4 @@
     - [x] Beginner 205
     - [x] Beginner 206 
   - [x] Codeforces: 
-    - [x] Round #725 (Div 3) 
+    - [x] [Round #725 (Div 3)](https://codeforces.com/contest/1538) 
