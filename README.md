@@ -65,6 +65,7 @@
     - [x] [Beginner 205](https://atcoder.jp/contests/abc205)
     - [x] [Beginner 206](https://atcoder.jp/contests/abc206) 
     - [x] [Beginner 207](https://atcoder.jp/contests/abc207)
+    - [x] [Grand 057](https://atcoder.jp/contests/agc057)
   - [x] **[Codeforces](https://github.com/BTrDung/CS112_Team08/tree/main/Self-practice/Codeforces)**
     - [x] [Round #725 (Div 3)](https://codeforces.com/contest/1538) 
   - [x] **[E-Olymp](https://github.com/BTrDung/CS112_Team08/tree/main/Self-practice/E-Olymp)**
