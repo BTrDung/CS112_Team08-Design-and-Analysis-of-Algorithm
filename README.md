@@ -9,7 +9,7 @@
 |No.| Full name         |Student ID       |Team role      |Github|
 |:-:|:------------------|:---------:|:--------:|:-----------:|
 | 1	|[Dzung Bui Tri](mailto:19521386@gm.uit.edu.vn)	| 19521386	| ![](https://img.shields.io/badge/-Leader-blue) |[BTrDung](https://github.com/BTrDung)|
-| 2	|[Tan Pham Ngoc](mailto:19520925@gm.uit.edu.vn)	| 19520925	| ![](https://img.shields.io/badge/-Member-blue)  |[ngctnnnn](https://github.com/ngctnnnn)|
+| 2	|[Tan Ngoc Pham](mailto:19520925@gm.uit.edu.vn)	| 19520925	| ![](https://img.shields.io/badge/-Member-blue)  |[ngctnnnn](https://github.com/ngctnnnn)|
 | 3	|[An Khanh Vo](mailto:19520007@gm.uit.edu.vn)	  | 19520007	| ![](https://img.shields.io/badge/-Member-blue)  |[vokhanhan25](https://github.com/vokhanhan25)|
 
 ## Process: 
