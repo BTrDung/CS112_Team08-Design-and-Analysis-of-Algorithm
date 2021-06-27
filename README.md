@@ -67,3 +67,6 @@
     - [x] [Beginner 207](https://atcoder.jp/contests/abc207)
   - [x] **[Codeforces](https://github.com/BTrDung/CS112_Team08/tree/main/Self-practice/Codeforces)**
     - [x] [Round #725 (Div 3)](https://codeforces.com/contest/1538) 
+  - [x] **[E-Olymp](https://github.com/BTrDung/CS112_Team08/tree/main/Self-practice/E-Olymp)**
+    - [x] [STL Intro](https://github.com/BTrDung/CS112_Team08-Design-and-Analysis-of-Algorithm/tree/main/Self-practice/E-Olymp/STL%20intro)
+    - [x] [Sort & Search](https://github.com/BTrDung/CS112_Team08-Design-and-Analysis-of-Algorithm/tree/main/Self-practice/E-Olymp/Sort%20%26%20Search) 
