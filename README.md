@@ -9,7 +9,7 @@
 |No.| Full name         |Student ID       |Team role      |Github|
 |:-:|:------------------|:---------:|:--------:|:-----------:|
 | 1	|[Dzung Bui Tri](mailto:19521386@gm.uit.edu.vn)	| 19521386	| ![](https://img.shields.io/badge/-Leader-blue) |[BTrDung](https://github.com/BTrDung)|
-| 2	|[Tan Pham Ngoc](mailto:19520925@gm.uit.edu.vn)	| 19520925	| ![](https://img.shields.io/badge/-Member-blue)  |[ngctnnnn](https://github.com/ngctnnnn)|
+| 2	|[Tan Ngoc Pham](mailto:19520925@gm.uit.edu.vn)	| 19520925	| ![](https://img.shields.io/badge/-Member-blue)  |[ngctnnnn](https://github.com/ngctnnnn)|
 | 3	|[An Khanh Vo](mailto:19520007@gm.uit.edu.vn)	  | 19520007	| ![](https://img.shields.io/badge/-Member-blue)  |[vokhanhan25](https://github.com/vokhanhan25)|
 
 ## Process: 
@@ -64,5 +64,10 @@
   - [x] **[Atcoder](https://github.com/BTrDung/CS112_Team08/tree/main/Self-practice/AtCoder)**
     - [x] [Beginner 205](https://atcoder.jp/contests/abc205)
     - [x] [Beginner 206](https://atcoder.jp/contests/abc206) 
+    - [x] [Beginner 207](https://atcoder.jp/contests/abc207)
+    - [x] [Grand 057](https://atcoder.jp/contests/agc057)
   - [x] **[Codeforces](https://github.com/BTrDung/CS112_Team08/tree/main/Self-practice/Codeforces)**
     - [x] [Round #725 (Div 3)](https://codeforces.com/contest/1538) 
+  - [x] **[E-Olymp](https://github.com/BTrDung/CS112_Team08/tree/main/Self-practice/E-Olymp)**
+    - [x] [STL Intro](https://github.com/BTrDung/CS112_Team08-Design-and-Analysis-of-Algorithm/tree/main/Self-practice/E-Olymp/STL%20intro)
+    - [x] [Sort & Search](https://github.com/BTrDung/CS112_Team08-Design-and-Analysis-of-Algorithm/tree/main/Self-practice/E-Olymp/Sort%20%26%20Search) 
